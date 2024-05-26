@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @satwika-55
-- 👀 I’m interested in ... DSA and development
-- 🌱 I’m currently learning ... backend
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in... Solving problems on leetcode
+- 🌱 I’m currently learning ... backend development
 - 📫 How to reach me ... chitrasatwika@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I code , who doesn't ?
 
 <!---
 satwika-55/satwika-55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
