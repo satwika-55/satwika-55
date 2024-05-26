@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @satwika-55
-- 👀 I’m interested in... Solving problems on leetcode
+- 👀 I’m interested in... Solving problems on leetcode. Check out my leetcode profile here : https://leetcode.com/u/satwika_555/
 - 🌱 I’m currently learning ... backend development
 - 📫 How to reach me ... chitrasatwika@gmail.com
 - ⚡ Fun fact: ... I code , who doesn't ?
