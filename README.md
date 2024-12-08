@@ -1,26 +1,5 @@
-<hr>
-
-## 👩‍💻 About Me
-
 <p align="center">
-  <strong><br>👋 Hi, I'm <span style="font-size: 48px;">Satwika</span></strong><br/>
-  <span style="font-size: 28px;">I am a passionate <strong>Computer Science Engineer</strong> 👩‍💻</span>
-</p>
-
-<hr>
-
-## 👨‍💻 Leetcode Info
-
-<p align="center">
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/satwika55?theme=unicorn&extension=activity" />  
-</p>
-
-<hr>
-
-## 👨‍💻 Codeforces Info
-
-<p align="center">
-  <img  align=top flex-grow=1 src="https://codeforces-readme-stats.vercel.app/api/card?username=satwika_55" />  
+  <img src="Banner1.gif" width="400" height="300"/>
 </p>
 
 <hr>
@@ -73,6 +52,26 @@
       <img src="https://skillicons.dev/icons?i=anaconda,raspberrypi,arduino&theme=dark">
     </td>
     <td></td>
+  </tr>
+</table>
+
+<hr>
+
+## 👨‍💻 Competitive Coding Profile
+
+<table style="width: 100%; text-align: center; border-collapse: collapse;">
+  <tr>
+    <!-- Leetcode Section (1st Column) -->
+    <td style="width: 50%; padding: 10px; text-align: center;">
+      <h3>Leetcode Info</h3>
+      <img src="https://leetcard.jacoblin.cool/satwika55?theme=unicorn&extension=activity" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+    </td>
+
+  
+  <td style="width: 50%; padding: 10px; text-align: center;">
+      <h3>Codeforces Info</h3>
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=satwika_55" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+    </td>
   </tr>
 </table>
 
